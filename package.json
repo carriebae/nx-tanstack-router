@@ -5,6 +5,8 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@tanstack/react-router": "^1.82.1",
+    "@tanstack/virtual-file-routes": "^1.81.9",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
@@ -25,6 +27,9 @@
     "@swc/cli": "~0.3.12",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
+    "@tanstack/router-cli": "^1.81.9",
+    "@tanstack/router-devtools": "^1.82.1",
+    "@tanstack/router-plugin": "^1.81.9",
     "@testing-library/react": "15.0.6",
     "@types/jest": "^29.5.12",
     "@types/node": "18.16.9",
